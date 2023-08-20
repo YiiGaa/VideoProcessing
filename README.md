@@ -11,7 +11,10 @@ Synchronized updates across multiple platforms，[bilibili](https://space.bilibi
 |        | 说明 Description         | 视频/文章链接 Video/Article Link |
 | ------ | ------------------------ | -------------------------------- |
 | common | 测试用素材 Test Material |                                  |
-| remux  | 转封装示例 Remux Sample  |                                  |
+| remux  | 转封装示例 Remux Sample  |  [bilibili](https://www.bilibili.com/video/BV1Lm4y1x7tc/)，[YouTube](https://www.youtube.com/watch?v=2k5STlKGYbM)，[CSDN](https://blog.csdn.net/Daniel_Leung/article/details/132078784)                                 |
+| transcode  | 转编码示例 Transcode Sample  |                                   |
+
+[bilibili](https://www.bilibili.com/video/BV1Lm4y1x7tc/)，[YouTube](https://www.youtube.com/watch?v=2k5STlKGYbM)，[CSDN](https://blog.csdn.net/Daniel_Leung/article/details/132078784)
 
 示例代码运行环境、编译环境、docker环境说明，请看对应目录下的README.md
 
